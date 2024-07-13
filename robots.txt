@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://shibu81.github.io/shibu/sitemap.xml
+Sitemap: https://shibu81.github.io/sitemap.xml
